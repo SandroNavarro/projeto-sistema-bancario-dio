@@ -1,8 +1,8 @@
-nome = input("Informe o seu nome: ")
+print(f"\n----- BANCO PYTHON -----")
+nome = input("\nInforme o seu nome: ")
 Agencia = 1234
 Conta = 12345-6
 
-print(f"\n----- BANCO PYTHON -----")
 print(f"\nOlá {nome},")
 print (f"Seja Bem-Vindo!")
 print(f"\nAgência: {Agencia}")
